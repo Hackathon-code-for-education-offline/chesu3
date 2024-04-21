@@ -1,3 +1,15 @@
 [submodule "3d_panorama_finish"]
 	path = 3d_panorama_finish
 	url = https://github.com/Mountok/3d_panorama
+[submodule "HackServer"]
+	path = HackServer
+	url = https://github.com/Khamzeto/HackServer.git
+[submodule "HackAdmin"]
+	path = HackAdmin
+	url = https://github.com/Khamzeto/HackAdmin.git
+[submodule "HackFront"]
+	path = HackFront
+	url = https://github.com/Khamzeto/FrontHack.git
+[submodule "HackFront_finish"]
+	path = HackFront_finish
+	url = https://github.com/Khamzeto/FrontHack.git
